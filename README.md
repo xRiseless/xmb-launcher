@@ -1,5 +1,5 @@
 # General: 
-PS3's XMB-like launcher for Steam Deck (or no) written with DeepSeek.
+Sony's PS3 XMB-like launcher for Steam Deck (or no) written with DeepSeek.
 <img width="1599" height="987" alt="image" src="https://github.com/user-attachments/assets/8ef4c88e-1e8a-470d-8bd0-64be8d0208d0" />
 
 This is an early alpha. Right now, the launcher features a PS3's XMB-like interface and basic support for parsing/launching Steam games.
