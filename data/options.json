@@ -1,0 +1,87 @@
+{
+  "System Info": {
+    "subcategory": "Test",
+    "icon": "info.png",
+    "command": "systeminfo.exe"
+  },
+  "Counter-Strike": {
+    "subcategory": "Steam Game List",
+    "icon": "game_blank.png",
+    "command": "steam://rungameid/10"
+  },
+  "Counter-Strike Nexon": {
+    "subcategory": "Steam Game List",
+    "icon": "game_blank.png",
+    "command": "steam://rungameid/273110"
+  },
+  "DOOM: The Dark Ages": {
+    "subcategory": "Steam Game List",
+    "icon": "game_blank.png",
+    "command": "steam://rungameid/3017860"
+  },
+  "Escape from Tarkov": {
+    "subcategory": "Steam Game List",
+    "icon": "game_blank.png",
+    "command": "steam://rungameid/3932890"
+  },
+  "Ghost Recon Breakpoint": {
+    "subcategory": "Steam Game List",
+    "icon": "game_blank.png",
+    "command": "steam://rungameid/2231380"
+  },
+  "Grand Theft Auto: San Andreas": {
+    "subcategory": "Steam Game List",
+    "icon": "game_blank.png",
+    "command": "steam://rungameid/12120"
+  },
+  "Half-Life": {
+    "subcategory": "Steam Game List",
+    "icon": "game_blank.png",
+    "command": "steam://rungameid/70"
+  },
+  "Killing Floor": {
+    "subcategory": "Steam Game List",
+    "icon": "game_blank.png",
+    "command": "steam://rungameid/1250"
+  },
+  "Lossless Scaling": {
+    "subcategory": "Steam Game List",
+    "icon": "game_blank.png",
+    "command": "steam://rungameid/993090"
+  },
+  "Marvel's Spider-Man 2": {
+    "subcategory": "Steam Game List",
+    "icon": "game_blank.png",
+    "command": "steam://rungameid/2651280"
+  },
+  "MudRunner": {
+    "subcategory": "Steam Game List",
+    "icon": "game_blank.png",
+    "command": "steam://rungameid/675010"
+  },
+  "R.E.P.O.": {
+    "subcategory": "Steam Game List",
+    "icon": "game_blank.png",
+    "command": "steam://rungameid/3241660"
+  },
+  "Ready or Not": {
+    "subcategory": "Steam Game List",
+    "icon": "game_blank.png",
+    "command": "steam://rungameid/1144200"
+  },
+  "Team Fortress 2": {
+    "subcategory": "Steam Game List",
+    "icon": "game_blank.png",
+    "command": "steam://rungameid/440"
+  },
+  "The Elder Scrolls Online": {
+    "subcategory": "Steam Game List",
+    "icon": "game_blank.png",
+    "command": "steam://rungameid/306130"
+  },
+  "Wallpaper Engine": {
+    "subcategory": "Steam Game List",
+    "icon": "game_blank.png",
+    "command": "steam://rungameid/431960"
+  }
+}

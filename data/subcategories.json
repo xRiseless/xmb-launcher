@@ -1,0 +1,35 @@
+{
+  "Game List": {
+    "category": "Game",
+    "icon": "folder.png",
+    "type": 1
+  },
+  "Internet Browser": {
+    "category": "Network",
+    "icon": "www.png",
+    "type": 0,
+    "command": ""
+  },
+  "Help": {
+    "category": "Network",
+    "icon": "question.png",
+    "type": 0,
+    "command": ""
+  },
+  "Friend List": {
+    "category": "Social",
+    "icon": "question.png",
+    "type": 1
+  },
+  "Steam Game List": {
+    "category": "Game",
+    "icon": "steam.png",
+    "type": 1
+  },
+  "God of War 3": {
+	  "category": "Game",
+	  "icon": "gow3.png",
+	  "type": 0,
+	  "command": ""
+  }
+}
